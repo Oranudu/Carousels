@@ -1,2 +1,2 @@
 # Carousel
-All Html | CSS | JavaScript Carousel I have ever created
+All Html | CSS | JavaScript Carousels I have ever created
